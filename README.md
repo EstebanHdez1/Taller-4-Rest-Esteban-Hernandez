@@ -5,4 +5,4 @@ Se paso todo el proyecto de servlets a rest pero a la hora de usar los rest no s
 Esteban Hernandez Londoño
 
 
-https://www.youtube.com/watch?v=D_l_GEtpO5U&ab_channel=ESTEBANHERNANDEZLONDO%C3%91O
+https://www.youtube.com/watch?v=jXlSGGVkymA&ab_channel=ESTEBANHERNANDEZLONDO%C3%91O
